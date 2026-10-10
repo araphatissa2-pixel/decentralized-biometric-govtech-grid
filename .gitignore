@@ -1,0 +1,6 @@
+venv/
+.buildozer/
+bin/
+*.log
+__pycache__/
+ngrok
